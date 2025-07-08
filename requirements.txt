@@ -1,0 +1,8 @@
+torch
+torchaudio
+torchvision
+gradio
+diffusers
+transformers
+openai-whisper
+ffmpeg-python
